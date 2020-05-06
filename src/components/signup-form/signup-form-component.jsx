@@ -249,11 +249,11 @@ const SignupForm = props => {
                     }
                   >
                     <option></option>
-                    <option value="What is the name of your first name ? ">
-                      What is the name of your first name ?{" "}
+                    <option value="What is the name of your first name?">
+                      What is the name of your first name?{" "}
                     </option>
-                    <option value="What is your favorite color ?">
-                      What is your favorite color ?{" "}
+                    <option value="What is your favorite color?">
+                      What is your favorite color?{" "}
                     </option>
                   </Form.Control>
                   <Form.Control.Feedback type="invalid">
